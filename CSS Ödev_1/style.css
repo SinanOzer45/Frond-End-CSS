@@ -1,0 +1,25 @@
+h1{
+    color:rgb(68, 11, 105);
+    font-size: 45px;
+}
+i{
+    color:green;
+}
+p{
+    color: black;
+    font-size: 17px;
+    font-family: 'Calibri';
+}
+h2{
+    color: rgb(161, 8, 46);
+    font-size: 25px;
+}
+a{
+    color:blueviolet;
+}
+h3{
+    color:rgb(218, 91, 32);
+}
+ style{
+    list-style-position: inside;
+ }
