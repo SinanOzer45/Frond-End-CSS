@@ -1,0 +1,49 @@
+body {
+    display: block;
+    margin: 8px;
+}
+.conteiner {
+    width: 1000px;    
+} 
+.content {
+    width: 1000px;
+}
+.kutu {
+    margin: 3px;
+}  /* kutuları yanyana dizip ayarlamasını yapıyoruz */
+.float {
+    float:left;
+    width: 33.33%;
+    height: 90px;
+    margin-left: 2px;
+}
+.clear {
+    clear: both;
+} /* her kutuyu kendi içerisinde özelleştiriyoruz -büyüklük küçüklük vs.*/
+.k1 {
+    width: 320px;
+    height: 83px;   
+}
+.k2 {
+    width: 161px;
+    height: 83px;
+}
+.k3 {
+    width: 513px;
+    height: 83px;
+}
+/* kutularımızı renklendiriyoruz*/
+.bg-a {
+    background-color: rgb(126, 229, 218);
+}
+.bg-b {
+    background-color: rgb(112, 204, 194);
+}
+.bg-c {
+    background-color:rgb(98, 179, 170);
+}
+.bg-d {
+    background-color: rgb(238, 238, 238);
+}
+
+
